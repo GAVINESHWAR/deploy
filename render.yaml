@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: fastapi-deploy
+    env: docker
+    plan: free
+    branch: main
+    autoDeploy: true
