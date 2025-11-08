@@ -48,7 +48,7 @@ async def send_mail(
         <body style="font-family: 'Segoe UI', Arial, sans-serif; background-color: #f7f8fa; margin: 0; padding: 0;">
             <div style="max-width: 600px; margin: 30px auto; background-color: #ffffff; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
                 <div style="background-color: #0056b3; padding: 20px; color: white; text-align: center;">
-                    <h1 style="margin: 0; font-size: 24px;">AmbuCare Services</h1>
+                    <h1 style="margin: 0; font-size: 24px;">Ambigo Services</h1>
                     <p style="margin: 5px 0 0; font-size: 14px;">Emergency Response | Anytime, Anywhere</p>
                 </div>
                 
